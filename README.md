@@ -1,49 +1,9 @@
 # blog# leanlatorre.github.io
 
-Estructura del repositorio:
-
-tu-repo/
-│
-├── index.html
-└── blog/
-    ├── pagina1.html
-    └── pagina2.html
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mi Portfolio - Blog de Videojuegos</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #121212;
-      color: #f5f5f5;
-      text-align: center;
-      padding: 50px;
-      line-height: 1.3; /* más compacto */
-    }
-    h1 {
-      color: #00bcd4;
-    }
-    a {
-      display: inline-block;
-      background-color: #00bcd4;
-      color: white;
-      text-decoration: none;
-      padding: 12px 20px;
-      border-radius: 6px;
-      margin-top: 20px;
-      transition: background-color 0.3s;
-    }
-    a:hover {
-      background-color: #0097a7;
-    }
-  </style>
 </head>
 <body>
   <h1>Bienvenidos a mi Portfolio</h1>
-  <p>Hola, soy <strong>[Tu Nombre]</strong>. Este es mi sitio web para los trabajos prácticos de HTML.</p>
+  <p>Hola, soy <strong>Leandro</strong>. Este es mi sitio web para los trabajos prácticos de HTML.</p>
   <p>En esta ocasión, te presento mi <strong>Blog de Videojuegos</strong>.</p>
   <a href="blog/pagina1.html">Ir al Blog 🎮</a>
 </body>
