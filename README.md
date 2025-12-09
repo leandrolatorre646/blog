@@ -37,32 +37,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Blog de Videojuegos - Reseña 2</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #181818;
-      color: #f5f5f5;
-      margin: 40px;
-      line-height: 1.3; /* compactado */
-    }
-    h1 {
-      color: #00bcd4;
-    }
-    a {
-      color: #00bcd4;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    img {
-      display: block;
-      margin: 20px auto;
-      border-radius: 8px;
-      max-width: 80%;
-    }
-  </style>
+
 </head>
 <body>
   <h1>🎮 Reseña: God of War (2018)</h1>
